@@ -1,0 +1,15 @@
+{
+  "name": "@zerotower/image-gallery",
+  "version": "1.0.0",
+  "description": "Image gallery component base on antd library for React >=16",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc build"
+  },
+  "keywords": ["upload","image gallery","image","antd","zerotower"],
+  "author": "zerotower<zerotower@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.4.4"
+  }
+}
